@@ -17,11 +17,11 @@ from google.oauth2.service_account import Credentials
 
 
 CONFIG = {
-    "email_address": "eins5tud1um1n153ltwald@gmail.com",
-    "email_code": "ruhkmmrtubkkmcpl",
-    "gsheet_credentials_file": "credentials.json",
-    "spreadsheet_id": "1Jxir66vMsTUVte7ZBBcvrIdXzCnxQHS4CXfdnewgE-k",
-    "sheet_name": "CLARA",
+    #
+    #
+    #
+    #
+    #
     "interval_minutes": 60,
     "processed_ids_file": "processed_ids.json",
 }
